@@ -1,0 +1,43 @@
+id,judul,bahasa,keterangan,foto,link
+1,Website Data Management,PHP&#44; JAVASCRIPT,simple website for business management.,1.png,#secret
+2,Plant Leaf Disease Detection Using CNN,PYTHON&#44; JUPYTER NOTEBOOK,Predicting apple leaf disease by machine learning using python.,2.png,https://klasifikasi-gambar.herokuapp.com/
+3,Web Visualisasi Data COVID-19,PHP&#44; JavaScript,visualization of covid-19 cases in real time using php and javascript.,3.png,https://ry-ys.000webhostapp.com/work/covid-19/
+4,Multi JPG Subfolder to PDF,PYTHON,Compressing photos automatically and convert to PDF group by sub-folder,4.gif,https://github.com/Ryas-Yusenda/Zen-of-Python/tree/main/Multi%20JPG%20Subfolder%20to%20PDF
+5,News Info,Flutter,make an application to display news from API,5.gif,https://github.com/Ryas-Yusenda/Zen-of-Flutter/tree/main/news_info
+6,API Berita Antara,PYTHON,create unofficial API [Berita Antara] with web scraping using python,6.png,https://berita-tugas.herokuapp.com/
+7,CRUD API With MongoDb,PYTHON&#44; MongoDb,Learn to develop crud applications using FAST API&#44; Python and MongoDB,7.png,https://github.com/Ryas-Yusenda/Zen-of-Python/tree/main/CRUD%20API%20With%20MongoDb
+8,Command Prompt Game,C++,build simple game applications using c++ and play through the command prompt.,8.gif,https://github.com/Ryas-Yusenda/Command-Prompt-Game
+9,NLP Zomato Resto,PYTHON&#44; JUPYTER NOTEBOOK,this project aims for zomato restaurant analysis and machine learning.,9.png,https://github.com/Ryas-Yusenda/Zen-of-Python/blob/main/NLP%20Zomato%20Restaurant/NLP_Main.ipynb
+10,Customer Personality Analysis,PYTHON&#44; JUPYTER NOTEBOOK,Predicting detailed analysis of a company's ideal customers.,10.png,https://github.com/Ryas-Yusenda/Zen-of-Python/blob/main/Customer%20Personality%20Analysis/Customer%20Personality%20Analysis.ipynb
+11,Hotel Recommendation System,PYTHON&#44; JUPYTER NOTEBOOK,Predicting build a hotel recommendation system with machine learning.,11.png,https://github.com/Ryas-Yusenda/Zen-of-Python/blob/main/Hotel%20Recommendation%20System/Hotel%20Recommendation%20System.ipynb
+12,NLP Indonesian's Articles,PYTHON&#44; JUPYTER NOTEBOOK,Indonesian's Articles analysis with python.,12.png,https://github.com/Ryas-Yusenda/Zen-of-Python/blob/main/NLP%20Artikel%20Indoesia/NLP_Python.ipynb
+13,Text Emotions Detection,PYTHON&#44; JUPYTER NOTEBOOK,Predicting  of text emotions detection with machine learning using python.,13.png,https://github.com/Ryas-Yusenda/Zen-of-Python/blob/main/Text%20Emotions%20Detection/Text%20Emotions%20Detection.ipynb
+14,Visualisasi Data COVID-19,PYTHON&#44; JUPYTER NOTEBOOK,visualization data on covid-19 cases.,14.png,https://github.com/Ryas-Yusenda/Zen-of-Python/blob/main/Visualisasi%20Data%20COVID-19/Covid_19.ipynb
+15,NLP US Elections,PYTHON&#44; JUPYTER NOTEBOOK,analyzing the US election with natural language processing with machine learning using python.,15.png,https://github.com/Ryas-Yusenda/Zen-of-Python/blob/main/NLP%20US%20Elections/NLP_Main.ipynb
+16,NLP WhatsApp Chat,PYTHON&#44; JUPYTER NOTEBOOK,analyzing whatsapp chat with natural language processing using python.,16.gif,https://github.com/Ryas-Yusenda/Zen-of-Python/blob/main/NLP%20WhatsApp%20Chat/NLP_Main.ipynb
+17,NLP Fake or Real News,PYTHON&#44; JUPYTER NOTEBOOK,Predicting  fake or real news with natural language processing with machine learning using python.,17.gif,https://github.com/Ryas-Yusenda/Zen-of-Python/blob/main/NLP%20Fake%20or%20Real%20News/NLP_Main.ipynb
+18,5 H Data Challenge,PYTHON&#44; JUPYTER NOTEBOOK,Learn how to data analysis from web scraping,18.gif,https://github.com/Ryas-Yusenda/Zen-of-Python/blob/main/5%20H%20Data%20Challenge/main.ipynb
+19,Python Bootcamp 2021 Build 15 working Applications and Games,PYTHON&#44; JUPYTER NOTEBOOK,Learn complete python with basics&#44; data science&#44; data visualisation&#44; desktop graphical applications and python for web.,#,https://github.com/Ryas-Yusenda/Zen-of-Python/tree/main/Python%20Bootcamp%202021%20Build%2015%20working%20Applications%20and%20Games
+20,...,...,...,#,#
+21,...,...,...,#,#
+22,...,...,...,#,#
+23,...,...,...,#,#
+24,...,...,...,#,#
+25,...,...,...,#,#
+26,...,...,...,#,#
+27,...,...,...,#,#
+28,...,...,...,#,#
+29,...,...,...,#,#
+30,...,...,...,#,#
+31,...,...,...,#,#
+32,...,...,...,#,#
+33,...,...,...,#,#
+34,...,...,...,#,#
+35,...,...,...,#,#
+36,...,...,...,#,#
+37,...,...,...,#,#
+38,...,...,...,#,#
+39,...,...,...,#,#
+40,...,...,...,#,#
+41,...,...,...,#,#
+42TheLast,...,...,...,#,#

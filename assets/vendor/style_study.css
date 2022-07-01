@@ -1,0 +1,138 @@
+#myBtn {
+   display: none;
+   position: fixed;
+   bottom: 20px;
+   right: 30px;
+   z-index: 99;
+   text-align: center;
+   font-size: 28px;
+   border: none;
+   outline: none;
+   background-color: white;
+   color: black;
+   cursor: pointer;
+   padding: 15px;
+   border-radius: 4px;
+   animation: fadeInAnimation ease 3s;
+   animation-iteration-count: 1;
+   animation-fill-mode: forwards;
+   line-height: 28px !important;
+}
+
+@keyframes fadeInAnimation {
+   0% {
+      opacity: 0;
+   }
+
+   100% {
+      opacity: 1;
+   }
+}
+
+.bd-placeholder-img {
+   font-size: 1.125rem;
+   text-anchor: middle;
+   -webkit-user-select: none;
+   -moz-user-select: none;
+   user-select: none;
+}
+
+@media (min-width: 768px) {
+   .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+   }
+}
+
+@font-face {
+   font-family: "WalnutCandy";
+   src: url(WalnutCandy.otf);
+}
+
+.font-unik {
+   font-family: WalnutCandy !important;
+   bottom: 0px;
+}
+
+.card-body {
+   height: 80px !important;
+}
+
+@media (max-width: 1024px) {
+   .card-body {
+      height: 104px !important;
+   }
+}
+
+::-webkit-scrollbar {
+   width: 8px;
+   background: #fff;
+}
+
+::-webkit-scrollbar-thumb {
+   background-color: #575757;
+   border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+   background: #bbb;
+}
+
+img {
+   padding: 5px;
+   border: 4px #00000012 solid;
+   object-fit: contain;
+   background: #f0f8ff;
+}
+
+.parent {
+   -webkit-touch-callout: none;
+   /* iOS Safari */
+   -webkit-user-select: none;
+   /* Chrome/Safari/Opera */
+   -khtml-user-select: none;
+   /* Konqueror */
+   -moz-user-select: none;
+   /* Firefox */
+   -ms-user-select: none;
+   /* Internet Explorer/Edge */
+   user-select: none;
+   /* Non-prefixed version */
+}
+
+.card-img-top2 {
+   width: 80% !important;
+}
+
+.btn-outline-danger1 {
+   color: #dc3545;
+   border-color: transparent;
+   font-size: 20px;
+}
+
+.btn-outline-danger1:hover {
+   color: #dc3545;
+   background-color: transparent;
+   border-color: transparent;
+}
+
+.btn:focus {
+   box-shadow: 0 0 0 0.25rem rgba(0, 0, 0, 0) !important;
+}
+
+.textHitam1 {
+   width: max-content !important;
+   padding-right: 4.5px !important;
+}
+
+.center_center {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   align-content: center;
+   align-self: center;
+   flex-direction: column;
+}
+
+.disabled2{
+   pointer-events: none;
+}
